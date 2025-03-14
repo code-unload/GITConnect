@@ -1,1 +1,2 @@
 this is a text file created to be added to git repo
+entering this row on remote repo on Github
